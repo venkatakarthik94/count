@@ -1,0 +1,62 @@
+....########## Connecting to CHINA CDN1..############
+│ 5   │ BC3.2_jsmpeg     │ default     │ N/A     │ cluster │ 18413    │ 4s     │ 202… │ online    │ 8.3%     │ 50.5mb   │ root     │ disabled │
+│ 6   │ BC9.5_jsmpeg     │ default     │ N/A     │ cluster │ 18122    │ 101s   │ 200… │ online    │ 0%       │ 54.9mb   │ root     │ disabled │
+│ 3   │ BJ1.1_jsmpeg     │ default     │ N/A     │ cluster │ 18386    │ 10s    │ 198… │ online    │ 0%       │ 50.5mb   │ root     │ disabled │
+│ 4   │ BJ1.3_jsmpeg     │ default     │ N/A     │ cluster │ 18266    │ 0      │ 198… │ waiting … │ 0%       │ 0b       │ root     │ disabled │
+│ 11  │ MR8A             │ default     │ N/A     │ cluster │ 18367    │ 16s    │ 208… │ online    │ 0%       │ 52.7mb   │ root     │ disabled │
+│ 2   │ MR8B_jsmpeg      │ default     │ N/A     │ cluster │ 18223    │ 69s    │ 204… │ online    │ 0%       │ 50.0mb   │ root     │ disabled │
+│ 0   │ R1.1_jsmpeg      │ default     │ N/A     │ cluster │ 18345    │ 19s    │ 208… │ online    │ 0%       │ 48.6mb   │ root     │ disabled │
+│ 9   │ VPfh3_jsmpeg     │ default     │ N/A     │ cluster │ 18326    │ 23s    │ 210… │ online    │ 0%       │ 49.7mb   │ root     │ disabled │
+│ 8   │ VPpso4_jsmpeg    │ default     │ N/A     │ cluster │ 18305    │ 50s    │ 208… │ online    │ 0%       │ 48.6mb   │ root     │ disabled │
+....########## Connecting to CHINA CDN2..############
+│ 5   │ BC3.3_jsmpeg    │ default     │ N/A     │ cluster │ 3530     │ 29s    │ 222… │ online    │ 1.9%     │ 44.6mb   │ root     │ disabled │
+│ 6   │ BC9.4           │ default     │ N/A     │ cluster │ 3564     │ 25s    │ 189… │ online    │ 2.7%     │ 44.5mb   │ root     │ disabled │
+│ 3   │ BJ1.2_jsmpeg    │ default     │ N/A     │ cluster │ 3208     │ 3m     │ 190… │ online    │ 1.4%     │ 54.6mb   │ root     │ disabled │
+│ 0   │ BJ1.4_jsmpeg    │ default     │ N/A     │ cluster │ 3501     │ 66s    │ 186… │ online    │ 1.9%     │ 47.0mb   │ root     │ disabled │
+│ 4   │ BJ1.5_jsmpeg    │ default     │ N/A     │ cluster │ 3558     │ 25s    │ 188… │ online    │ 2%       │ 44.0mb   │ root     │ disabled │
+│ 2   │ VPdr7           │ default     │ N/A     │ cluster │ 3477     │ 68s    │ 246… │ online    │ 1.4%     │ 47.1mb   │ root     │ disabled │
+│ 1   │ VPlfl6          │ default     │ N/A     │ cluster │ 3452     │ 76s    │ 220… │ online    │ 1.9%     │ 46.7mb   │ root     │ disabled │
+....########## Connecting to CHINA CDN3..############
+│ 4   │ BC9.2_jsmpeg     │ default     │ N/A     │ cluster │ 20638    │ 92s    │ 220… │ online    │ 0.7%     │ 55.0mb   │ root     │ disabled │
+│ 5   │ BC9.3_jsmpeg     │ default     │ N/A     │ cluster │ 20531    │ 2m     │ 220… │ online    │ 1.5%     │ 56.9mb   │ root     │ disabled │
+│ 2   │ BJ1.6X_jsmpeg    │ default     │ N/A     │ cluster │ 20762    │ 13s    │ 222… │ online    │ 3.7%     │ 51.9mb   │ root     │ disabled │
+│ 3   │ BJ1.7X_jsmpeg    │ default     │ N/A     │ cluster │ 20658    │ 0      │ 223… │ waiting … │ 0%       │ 0b       │ root     │ disabled │
+│ 1   │ R1.2X_jsmpeg     │ default     │ N/A     │ cluster │ 20701    │ 64s    │ 226… │ online    │ 1.5%     │ 50.4mb   │ root     │ disabled │
+│ 0   │ R1.3S_jsmpeg     │ default     │ N/A     │ cluster │ 20741    │ 31s    │ 223… │ online    │ 3.7%     │ 45.8mb   │ root     │ disabled │
+....########## Connecting to CHINA CDN4..############
+│ 4   │ BC3.1_jsmpeg    │ default     │ N/A     │ cluster │ 31563    │ 53s    │ 221… │ online    │ 2.2%     │ 50.1mb   │ root     │ disabled │
+│ 3   │ DT12_jsmpeg     │ default     │ N/A     │ cluster │ 25115    │ 93m    │ 145… │ online    │ 1.5%     │ 69.3mb   │ root     │ disabled │
+│ 0   │ R2-1R_jsmpeg    │ default     │ N/A     │ cluster │ 31552    │ 55s    │ 216… │ online    │ 2.5%     │ 49.3mb   │ root     │ disabled │
+│ 1   │ R2-2G_jsmpeg    │ default     │ N/A     │ cluster │ 31593    │ 8s     │ 234… │ online    │ 0%       │ 50.2mb   │ root     │ disabled │
+│ 2   │ R2-3i_jsmpeg    │ default     │ N/A     │ cluster │ 31480    │ 95s    │ 218… │ online    │ 1.2%     │ 50.8mb   │ root     │ disabled │
+....########## Connecting to CHINA CDN5..############
+│ 2   │ BC3.4_jsmpeg    │ default     │ N/A     │ cluster │ 22709    │ 27s    │ 205… │ online    │ 0.9%     │ 48.3mb   │ root     │ disabled │
+│ 3   │ BC3.5_jsmpeg    │ default     │ N/A     │ cluster │ 22637    │ 74s    │ 219… │ online    │ 0.9%     │ 51.6mb   │ root     │ disabled │
+│ 5   │ BC9.1_jsmpeg    │ default     │ N/A     │ cluster │ 22586    │ 99s    │ 244… │ online    │ 0.9%     │ 55.7mb   │ root     │ disabled │
+│ 4   │ MOW13_jsmpeg    │ default     │ N/A     │ cluster │ 22736    │ 11s    │ 229… │ online    │ 2.8%     │ 52.7mb   │ root     │ disabled │
+│ 1   │ R7.1T_jsmpeg    │ default     │ N/A     │ cluster │ 22687    │ 0      │ 232… │ waiting … │ 0%       │ 0b       │ root     │ disabled │
+│ 0   │ SB4.1_jsmpeg    │ default     │ N/A     │ cluster │ 22765    │ 1s     │ 223… │ online    │ 0%       │ 46.2mb   │ root     │ disabled │
+....########## Connecting to CHINA CDN6..############
+│ 0   │ BC4.1_jsmpeg    │ default     │ N/A     │ cluster │ 26972    │ 37s    │ 227… │ online    │ 2.8%     │ 47.9mb   │ root     │ disabled │
+│ 3   │ BJ5.1_jsmpeg    │ default     │ N/A     │ cluster │ 26991    │ 35s    │ 227… │ online    │ 4.9%     │ 48.1mb   │ root     │ disabled │
+│ 4   │ R11.1_jsmpeg    │ default     │ N/A     │ cluster │ 27049    │ 4s     │ 236… │ online    │ 0%       │ 49.4mb   │ root     │ disabled │
+│ 1   │ R4.1_jsmpeg     │ default     │ N/A     │ cluster │ 27002    │ 33s    │ 227… │ online    │ 3.6%     │ 47.6mb   │ root     │ disabled │
+│ 2   │ RA5.1_jsmpeg    │ default     │ N/A     │ cluster │ 27029    │ 17s    │ 251… │ online    │ 2.6%     │ 48.4mb   │ root     │ disabled │
+....########## Connecting to CHINA CDN7..############
+│ 0   │ BC4.2_jsmpeg    │ default     │ N/A     │ cluster │ 29768    │ 3m     │ 216… │ online    │ 1.8%     │ 60.2mb   │ root     │ disabled │
+│ 1   │ BC4.3_jsmpeg    │ default     │ N/A     │ cluster │ 29943    │ 51s    │ 220… │ online    │ 2.4%     │ 49.8mb   │ root     │ disabled │
+│ 2   │ BC4.4_jsmpeg    │ default     │ N/A     │ cluster │ 29981    │ 9s     │ 219… │ online    │ 0%       │ 50.5mb   │ root     │ disabled │
+│ 3   │ BC4.5_jsmpeg    │ default     │ N/A     │ cluster │ 29812    │ 2m     │ 222… │ online    │ 1.2%     │ 59.4mb   │ root     │ disabled │
+│ 4   │ R9.1_jsmpeg     │ default     │ N/A     │ cluster │ 29992    │ 8s     │ 224… │ online    │ 0%       │ 49.9mb   │ root     │ disabled │
+....########## Connecting to CHINA CDN8..############
+│ 0   │ BJ11.1     │ default     │ N/A     │ cluster │ 21795    │ 30s    │ 225… │ online    │ 0%       │ 47.0mb   │ root     │ disabled │
+│ 9   │ BJ11.10    │ default     │ N/A     │ cluster │ 21835    │ 20s    │ 227… │ online    │ 0%       │ 46.3mb   │ root     │ disabled │
+│ 1   │ BJ11.2     │ default     │ N/A     │ cluster │ 21554    │ 105s   │ 225… │ online    │ 0%       │ 53.8mb   │ root     │ disabled │
+│ 2   │ BJ11.3     │ default     │ N/A     │ cluster │ 21902    │ 4s     │ 223… │ online    │ 0%       │ 48.1mb   │ root     │ disabled │
+│ 3   │ BJ11.4     │ default     │ N/A     │ cluster │ 21760    │ 41s    │ 224… │ online    │ 0%       │ 49.3mb   │ root     │ disabled │
+│ 4   │ BJ11.5     │ default     │ N/A     │ cluster │ 21801    │ 30s    │ 470… │ online    │ 0%       │ 46.4mb   │ root     │ disabled │
+│ 5   │ BJ11.6     │ default     │ N/A     │ cluster │ 21879    │ 18s    │ 213… │ online    │ 0%       │ 46.6mb   │ root     │ disabled │
+│ 6   │ BJ11.7     │ default     │ N/A     │ cluster │ 21857    │ 19s    │ 221… │ online    │ 0%       │ 47.6mb   │ root     │ disabled │
+│ 7   │ BJ11.8     │ default     │ N/A     │ cluster │ 21464    │ 2m     │ 224… │ online    │ 0%       │ 55.4mb   │ root     │ disabled │
+│ 8   │ BJ11.9     │ default     │ N/A     │ cluster │ 21738    │ 45s    │ 217… │ online    │ 0%       │ 47.1mb   │ root     │ disabled │
+│ 10  │ SB9.1      │ default     │ N/A     │ cluster │ 21715    │ 60s    │ 248… │ online    │ 0%       │ 51.2mb   │ root     │ disabled │

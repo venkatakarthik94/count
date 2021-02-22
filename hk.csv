@@ -1,0 +1,64 @@
+....########## Connecting to HK CDN1..############
+│ BC9.5_jsmpeg  │ 16 │ 1.0.0   │ fork │ 18313 │ online │ 7       │ 2D     │ 0.9% │ 131.5 MB   │ root │ disabled │
+│ BJ1.1_jsmpeg  │ 13 │ 1.0.0   │ fork │ 13575 │ online │ 7       │ 35h    │ 0.9% │ 137.5 MB   │ root │ disabled │
+│ BJ1.3_jsmpeg  │ 12 │ 1.0.0   │ fork │ 29790 │ online │ 12      │ 6D     │ 0.7% │ 136.2 MB   │ root │ disabled │
+│ MR8A_jsmpeg   │ 14 │ 1.0.0   │ fork │ 28357 │ online │ 11      │ 10h    │ 0.9% │ 151.9 MB   │ root │ disabled │
+│ MR8B_jsmpeg   │ 15 │ 1.0.0   │ fork │ 28364 │ online │ 8       │ 10h    │ 0.5% │ 114.8 MB   │ root │ disabled │
+│ R1.1_jsmpeg   │ 9  │ 1.0.0   │ fork │ 20655 │ online │ 6       │ 5D     │ 2%   │ 251.4 MB   │ root │ disabled │
+│ VPfh3_jsmpeg  │ 11 │ 1.0.0   │ fork │ 13591 │ online │ 18      │ 35h    │ 0.7% │ 132.3 MB   │ root │ disabled │
+│ VPpso4_jsmpeg │ 10 │ 1.0.0   │ fork │ 878   │ online │ 13      │ 6D     │ 0.7% │ 134.6 MB   │ root │ disabled │
+....########## Connecting to HK CDN2..############
+│ BC9.4_jsmpeg  │ 12 │ 1.0.0   │ fork │ 8981  │ online │ 9       │ 35h    │ 1.8% │ 142.3 MB   │ root │ disabled │
+│ BJ1.2_jsmpeg  │ 10 │ 1.0.0   │ fork │ 8994  │ online │ 6       │ 35h    │ 1.1% │ 139.6 MB   │ root │ disabled │
+│ BJ1.4_jsmpeg  │ 7  │ 1.0.0   │ fork │ 8952  │ online │ 6       │ 35h    │ 0.9% │ 127.7 MB   │ root │ disabled │
+│ BJ1.5_jsmpeg  │ 11 │ 1.0.0   │ fork │ 8966  │ online │ 5       │ 35h    │ 0.9% │ 123.4 MB   │ root │ disabled │
+│ VPdr7_jsmpeg  │ 9  │ 1.0.0   │ fork │ 27263 │ online │ 9       │ 6D     │ 0.7% │ 161.1 MB   │ root │ disabled │
+│ VPlfl6_jsmpeg │ 8  │ 1.0.0   │ fork │ 13911 │ online │ 19      │ 27h    │ 0.4% │ 141.7 MB   │ root │ disabled │
+....########## Connecting to HK CDN3..############
+│ BC9.2_jsmpeg  │ 11 │ 1.0.0   │ fork │ 23757 │ online │ 6       │ 6D     │ 1.2% │ 159.8 MB   │ root │ disabled │
+│ BC9.3_jsmpeg  │ 12 │ 1.0.0   │ fork │ 5281  │ online │ 7       │ 23h    │ 1%   │ 121.9 MB   │ root │ disabled │
+│ BJ1.6X_jsmpeg │ 9  │ 1.0.0   │ fork │ 29854 │ online │ 9       │ 35h    │ 0.9% │ 122.0 MB   │ root │ disabled │
+│ BJ1.7X_jsmpeg │ 10 │ 1.0.0   │ fork │ 29824 │ online │ 11      │ 35h    │ 0.8% │ 128.5 MB   │ root │ disabled │
+│ R1.2X_jsmpeg  │ 8  │ 1.0.0   │ fork │ 29841 │ online │ 8       │ 35h    │ 0.9% │ 127.0 MB   │ root │ disabled │
+│ R1.3S_jsmpeg  │ 7  │ 1.0.0   │ fork │ 29900 │ online │ 8       │ 35h    │ 2.4% │ 151.6 MB   │ root │ disabled │
+....########## Connecting to HK CDN4..############
+│ BC3.1_jsmpeg   │ 12 │ 1.0.0   │ fork │ 16433 │ online │ 6       │ 9D     │ 1%   │ 267.4 MB   │ root │ disabled │
+│ DT12-C2_jsmpeg │ 11 │ 1.0.0   │ fork │ 31195 │ online │ 3       │ 11D    │ 0.1% │ 111.1 MB   │ root │ disabled │
+│ DT12_jsmpeg    │ 10 │ 1.0.0   │ fork │ 5232  │ online │ 17      │ 2D     │ 0.6% │ 113.4 MB   │ root │ disabled │
+│ R2-1R_jsmpeg   │ 7  │ 1.0.0   │ fork │ 7800  │ online │ 9       │ 35h    │ 1.2% │ 143.8 MB   │ root │ disabled │
+│ R2-2G_jsmpeg   │ 8  │ 1.0.0   │ fork │ 15562 │ online │ 5       │ 5D     │ 5.7% │ 344.4 MB   │ root │ disabled │
+│ R2-3i_jsmpeg   │ 9  │ 1.0.0   │ fork │ 2840  │ online │ 7       │ 4D     │ 1.2% │ 144.9 MB   │ root │ disabled │
+....########## Connecting to HK CDN5..############
+│ BC9.1_jsmpeg │ 1  │ 1.0.0   │ fork │ 6607  │ online │ 806     │ 6D     │ 1.3%  │ 141.1 MB   │ root │ disabled │
+│ MOW13_jsmpeg │ 4  │ 1.0.0   │ fork │ 11998 │ online │ 766     │ 35h    │ 22.4% │ 188.8 MB   │ root │ disabled │
+│ R7.1T_jsmpeg │ 3  │ 1.0.0   │ fork │ 11979 │ online │ 545     │ 35h    │ 2.7%  │ 214.3 MB   │ root │ disabled │
+│ SB4.1_jsmpeg │ 2  │ 1.0.0   │ fork │ 31432 │ online │ 510     │ 16D    │ 12.9% │ 599.2 MB   │ root │ disabled │
+....########## Connecting to HK CDN6..############
+│ BC4.1_jsmpeg │ 6  │ 1.0.0   │ fork │ 4636  │ online │ 14      │ 35h    │ 7.5% │ 149.6 MB   │ root │ disabled │
+│ BJ5.1_jsmpeg │ 9  │ 1.0.0   │ fork │ 4648  │ online │ 9       │ 35h    │ 1%   │ 119.3 MB   │ root │ disabled │
+│ R11.1_jsmpeg │ 10 │ 1.0.0   │ fork │ 12015 │ online │ 5       │ 7D     │ 4.8% │ 160.9 MB   │ root │ disabled │
+│ R4.1_jsmpeg  │ 7  │ 1.0.0   │ fork │ 4642  │ online │ 8       │ 35h    │ 5%   │ 175.3 MB   │ root │ disabled │
+│ RA5.1_jsmpeg │ 8  │ 1.0.0   │ fork │ 4630  │ online │ 6       │ 35h    │ 1.2% │ 135.3 MB   │ root │ disabled │
+....########## Connecting to HK CDN7..############
+│ BC4.2_jsmpeg │ 1  │ 1.0.0   │ fork │ 7406  │ online │ 498     │ 2D     │ 2.7% │ 283.5 MB   │ root │ disabled │
+│ BC4.3_jsmpeg │ 2  │ 1.0.0   │ fork │ 17092 │ online │ 490     │ 35h    │ 2.2% │ 140.4 MB   │ root │ disabled │
+│ BC4.4_jsmpeg │ 3  │ 1.0.0   │ fork │ 17098 │ online │ 503     │ 35h    │ 1.6% │ 141.9 MB   │ root │ disabled │
+│ BC4.5_jsmpeg │ 4  │ 1.0.0   │ fork │ 17086 │ online │ 572     │ 35h    │ 2.2% │ 138.8 MB   │ root │ disabled │
+│ R9.1_jsmpeg  │ 5  │ 1.0.0   │ fork │ 13436 │ online │ 851     │ 2D     │ 2.2% │ 467.0 MB   │ root │ disabled │
+....########## Connecting to HK CDN8..############
+│ BC3.2    │ 1  │ 1.0.0   │ fork │ 30152 │ online │ 1873    │ 7D     │ 1.4% │ 161.9 MB   │ root │ disabled │
+│ BC3.3    │ 2  │ 1.0.0   │ fork │ 22719 │ online │ 1885    │ 35h    │ 1.5% │ 145.1 MB   │ root │ disabled │
+│ BC3.4    │ 3  │ 1.0.0   │ fork │ 22756 │ online │ 1942    │ 35h    │ 0.7% │ 111.9 MB   │ root │ disabled │
+│ BC3.5    │ 4  │ 1.0.0   │ fork │ 3678  │ online │ 1941    │ 5D     │ 0.7% │ 123.4 MB   │ root │ disabled │
+│ SB9.1    │ 5  │ 1.0.0   │ fork │ 22772 │ online │ 2836    │ 35h    │ 0.8% │ 127.2 MB   │ root │ disabled │
+....########## Connecting to HK CDN9..############
+│ BJ11.1   │ 1  │ 1.0.0   │ fork │ 13981 │ online │ 1147    │ 35h    │ 1.5% │ 250.2 MB   │ root │ disabled │
+│ BJ11.10  │ 10 │ 1.0.0   │ fork │ 13972 │ online │ 1323    │ 35h    │ 0.9% │ 118.6 MB   │ root │ disabled │
+│ BJ11.2   │ 2  │ 1.0.0   │ fork │ 21473 │ online │ 1142    │ 5D     │ 0.9% │ 141.4 MB   │ root │ disabled │
+│ BJ11.3   │ 3  │ 1.0.0   │ fork │ 13997 │ online │ 1177    │ 35h    │ 0.9% │ 127.5 MB   │ root │ disabled │
+│ BJ11.4   │ 4  │ 1.0.0   │ fork │ 19881 │ online │ 1180    │ 26h    │ 1.3% │ 100.1 MB   │ root │ disabled │
+│ BJ11.5   │ 5  │ 1.0.0   │ fork │ 14032 │ online │ 1220    │ 35h    │ 1.3% │ 140.1 MB   │ root │ disabled │
+│ BJ11.6   │ 6  │ 1.0.0   │ fork │ 31789 │ online │ 1211    │ 5h     │ 1%   │ 104.0 MB   │ root │ disabled │
+│ BJ11.7   │ 7  │ 1.0.0   │ fork │ 31846 │ online │ 1264    │ 5h     │ 1%   │ 102.9 MB   │ root │ disabled │
+│ BJ11.8   │ 8  │ 1.0.0   │ fork │ 21457 │ online │ 1260    │ 5D     │ 1.2% │ 187.4 MB   │ root │ disabled │
+│ BJ11.9   │ 9  │ 1.0.0   │ fork │ 14016 │ online │ 1319    │ 35h    │ 0.9% │ 106.1 MB   │ root │ disabled │
